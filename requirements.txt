@@ -12,7 +12,7 @@ gunicorn==19.1.1
 lever==0.2.6
 redis==2.10.3
 six==1.6.1
-requests==2.2.1
+requests==2.20.0
 apscheduler==2.1.2
 setproctitle==1.1.8
 decorator==3.4.0
